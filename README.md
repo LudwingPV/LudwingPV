@@ -1,14 +1,14 @@
 # Hey, I'm Ludwing
 
-AI Solutions Engineer at **Thoughtful AI** and independent mobile developer from El Salvador.
+AI Solutions Engineer at **Thoughtful AI** and independent developer from El Salvador.
 
-I work at the intersection of artificial intelligence and real-world product delivery — building AI workers that automate healthcare operations at scale, and shipping polished consumer apps on the side.
+I work at the intersection of artificial intelligence and real-world product delivery — building AI workers that automate healthcare operations at scale, and shipping web apps, mobile apps, and automation tools independently.
 
 ## What I do
 
-**At Thoughtful AI** — I design and deploy AI workers for revenue cycle management in US healthcare. These handle real claims, real denials, and real compliance requirements across Medicare, Medicaid, and commercial payers. Not chatbots — autonomous agents that do the work.
+**At Thoughtful AI (Smarter Technologies)** — I help design, deploy, and optimize AI workers that automate healthcare revenue cycle operations end to end. Thoughtful AI is part of Smarter Technologies — the platform behind 500,000+ providers, 400M+ transactions, and $200B+ in managed revenue annually. Our AI workers handle eligibility verification, claims processing, denial management, payment posting, and prior authorization across Medicare, Medicaid, and commercial payers. Not chatbots — autonomous agents that resolve up to 70% of RCM tasks, learning and adapting from every interaction.
 
-**Independently** — I build and ship mobile apps. Currently developing **CASHFLOW**, a payday-aware personal finance app for Latin America built with React Native, Expo, and TypeScript. It includes credit card advisory, survival spending logic, cycle-based budgeting, and a notification intelligence layer.
+**Independently** — I design and ship web apps, mobile apps, and automation tools. From websites and Python bots to full React Native apps with cloud backends — I work across the full stack using AI workers throughout the process to move fast and build polished products.
 
 ## Where I've been
 
@@ -22,17 +22,17 @@ I work at the intersection of artificial intelligence and real-world product del
 
 ## Tech
 
-**AI & Automation:** AI workers, RPA, OCR, LLM orchestration, Claude, GPT, MCP servers, prompt engineering
+**AI & Automation:** Cursor, Claude (Anthropic), OpenAI / GPT, Gemini (Google), Claude Code, MCP servers, prompt engineering, AI workers, RPA, OCR, NLP, LLM orchestration, agentic workflows
+
+**Mobile & Frontend:** React Native, Expo SDK 54, TypeScript, React Navigation, Expo Router, EAS Build/Submit, Android/iOS, HTML, CSS, JavaScript
+
+**Backend & Data:** Supabase (Auth, Database, Edge Functions, Realtime), PostgreSQL, Deno, Node.js, Python, REST APIs, AsyncStorage
+
+**Cloud & Infra:** Microsoft Azure (Private Link, NSGs, Defender for Cloud), Active Directory, Microsoft 365, Okta SSO, Mimecast, VMware, Hyper-V, PowerShell, IaaS/PaaS
 
 **Security:** Kali Linux, Nessus, Metasploit, Nmap, Wireshark, Snort, Splunk, IBM QRadar, ELK/SIEM, Fortinet, Shodan
 
-**Cloud & Infra:** Microsoft Azure, Active Directory, Microsoft 365, Okta SSO, Mimecast, VMware, Hyper-V, PowerShell
-
-**Mobile & Frontend:** React Native, Expo, TypeScript, Supabase, EAS, Android/iOS
-
-**Backend:** Supabase Edge Functions, PostgreSQL, Deno, Node.js, Python, REST APIs
-
-**Tools:** Git, GitHub Actions, Vitest, Cursor, Claude Code, Power BI, Jira, ServiceNow
+**Dev Tools:** Git, GitHub Actions, Vitest, Cursor, VS Code, Power BI, Jira, ServiceNow, Figma, EAS CLI
 
 ## Certifications
 
@@ -40,7 +40,7 @@ Google Project Management Professional (2025) | CISSP (ISC)2 (In Progress) | Dig
 
 ## Current projects
 
-**CASHFLOW** — Payday cycle finance app with credit card smart advisor, survival mode spending guidance, notification bell inbox, Android app shortcuts, theme-aware UI with video backdrops, and Supabase cloud sync. Fully designed, specced, and shipped with a team of AI workers.
+Building web and mobile products — from static sites and Python automation to full React Native apps with Supabase backends. Everything designed, specced, and shipped with a team of AI workers.
 
 ## Connect
 
