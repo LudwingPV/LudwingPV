@@ -1,10 +1,10 @@
 # Hey, I'm Ludwing
 
-AI Solutions Engineer at **Thoughtful AI** and independent developer from El Salvador.
+AI Solutions Engineer and independent developer from El Salvador.
 
-I work at the intersection of artificial intelligence and real-world product delivery — building AI workers that automate healthcare operations at scale, and shipping web apps, mobile apps, and automation tools independently.
+I work at the intersection of artificial intelligence and real-world product delivery — building AI workers that automate operations at scale, and shipping web apps, mobile apps, and automation tools independently.
 
-## What I do
+## Last job experience:
 
 **At Thoughtful AI (Smarter Technologies)** — I help design, deploy, and optimize AI workers that automate healthcare revenue cycle operations end to end. Thoughtful AI is part of Smarter Technologies — the platform behind 500,000+ providers, 400M+ transactions, and $200B+ in managed revenue annually. Our AI workers handle eligibility verification, claims processing, denial management, payment posting, and prior authorization across Medicare, Medicaid, and commercial payers. Not chatbots — autonomous agents that resolve up to 70% of RCM tasks, learning and adapting from every interaction.
 
