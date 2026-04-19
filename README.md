@@ -42,6 +42,25 @@ Google Project Management Professional (2025) | CISSP (ISC)2 (In Progress) | Dig
 
 Building web and mobile products — from static sites and Python automation to full React Native apps with Supabase backends. Everything designed, specced, and shipped with a team of AI workers.
 
+### CashFlow — Mobile Finance App
+Built for salaried workers in El Salvador to better manage money between paydays.
+Solo build, end to end: product, frontend, backend, and logic automation.
+
+**Tech:** React Native, Expo, TypeScript, Supabase
+**Status:** Coming soon to Google Play Store
+
+<img width="600" alt="page-5" src="https://github.com/user-attachments/assets/721f841e-8044-4949-b930-31d0855f51f9" />
+<img width="600" alt="page-6" src="https://github.com/user-attachments/assets/cb4a5b16-44cf-4b72-82e2-d23041b3cdc9" />
+<img width="600" alt="page-3" src="https://github.com/user-attachments/assets/e22dcc3f-a971-4f4e-8882-9f33f5ccc021" />
+<img width="600" alt="page-2" src="https://github.com/user-attachments/assets/a168d5f4-5109-47fb-8815-91423c6f88ac" />
+
+### CareHub SV — Healthcare Management Platform
+Healthcare operations platform built for the Salvadoran market.
+Handles scheduling, patient management, and operational workflows.
+
+**Tech:** TypeScript, PLpgSQL, Supabase
+**Status:** In development
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwing-pacas-55886b230/)
