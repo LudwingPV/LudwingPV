@@ -6,18 +6,46 @@ I build the automation layer companies run on: AI classification, integrations, 
 
 ## What I do now
 
-**At Patient Engine** (healthcare marketing SaaS for med spas) I designed a company-wide tech request system (custom Slack app, Claude AI classification against the SLA rulebook, routed ClickUp tasks, automatic confirmations), marketing ops data syncs, A2P 10DLC compliance automation, and leadership dashboards.
+### Patient Engine · Technology Engineer
+
+I work as the company's technology wizard: I find the technology that best fits each team and make it run inside the tools they already use. I sit with the team, learn the process they have, and build the automation on top of it. Nobody has to learn new software, so adoption takes days, not months.
 
 ```mermaid
 flowchart LR
-    A[Request in Slack or ClickUp] --> B{Filters: real request, not bot}
-    B --> C[Claude: type, priority, SLA]
-    C --> D[Code: parse and validate]
-    D --> E[ClickUp: routed task]
-    E --> F[Confirmation posted back]
+    subgraph TOOLS[Tools the team already used]
+        direction TB
+        T1[Slack]
+        T2[ClickUp]
+        T3[GoHighLevel and Twilio]
+        T4[Gmail and Google Sheets]
+    end
+    L{{Automation layer<br/>Zapier, Claude AI,<br/>custom Slack app, APIs}}
+    subgraph SYSTEMS[Systems I built]
+        direction TB
+        S1[01 Tech Request Intake]
+        S2[02 Marketing Ops Sync]
+        S3[03 Operations Dashboard]
+        S4[04 Telecom and A2P Compliance]
+        S5[05 Funnel Remediation]
+    end
+    TOOLS --> L --> SYSTEMS
+    classDef tool fill:#0c2d6b,stroke:#58a6ff,color:#e6edf3
+    classDef layer fill:#2a1f47,stroke:#a371f7,color:#e6edf3
+    classDef sys fill:#0f2e1c,stroke:#3fb950,color:#e6edf3
+    class T1,T2,T3,T4 tool
+    class L layer
+    class S1,S2,S3,S4,S5 sys
 ```
 
-Real flowcharts and case studies: **[business automation portfolio](https://github.com/LudwingPV/automation-integration-portfolio)**
+| # | System | What it solved |
+|---|---|---|
+| 01 | [Tech Request Intake](https://github.com/LudwingPV/business-process-automation/tree/main/01-tech-request-intake-system) | Five fragile request channels replaced by one custom Slack app. Claude classifies each request against the SLA rulebook, creates the routed ClickUp task, and confirms back. Four legacy automations retired. |
+| 02 | [Marketing Ops Sync](https://github.com/LudwingPV/business-process-automation/tree/main/02-marketing-ops-sync) | Geo-targeting updates that were copied by hand now sync from ClickUp to the reporting sheet, flagging missing data instead of overwriting good data. |
+| 03 | [Operations Dashboard](https://github.com/LudwingPV/business-process-automation/tree/main/03-live-operations-dashboard) | Leadership went from no visibility to live completion rates, workload by assignee, and monthly KPIs. |
+| 04 | [Telecom and A2P Compliance](https://github.com/LudwingPV/business-process-automation/tree/main/04-telecom-provisioning) | Caller ID conflicts fixed without service loss, local numbers provisioned, and A2P 10DLC status triaged into tasks and alerts. |
+| 05 | [Funnel Remediation](https://github.com/LudwingPV/business-process-automation/tree/main/05-funnel-remediation) | Live campaign defects fixed at the root cause, and brand updates pushed account-wide from one templating variable. |
+
+All flowcharts in one place: **[WORKFLOWS.md](https://github.com/LudwingPV/business-process-automation/blob/main/WORKFLOWS.md)**
 
 **Before that, at Thoughtful AI (Smarter Technologies)**, I designed, deployed, and optimized AI workers that automated healthcare revenue cycle operations end to end: eligibility verification, claims processing, denial management, payment posting, and prior authorization across Medicare, Medicaid, and commercial payers, resolving up to 70% of RCM tasks.
 
